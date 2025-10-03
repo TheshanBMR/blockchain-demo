@@ -12,7 +12,7 @@ http://andersbrownworth.com/blockchain/
 Get the code:
 
 ```
-git clone https://github.com/anders94/blockchain-demo.git
+git clone https://github.com/TheshanBMR/blockchain-demo.git
 ```
 
 Install dependencies:
@@ -106,4 +106,4 @@ The 2nd part of the 101 session:
 
 ![](public/images/qr.png)
 
-Bitcoin gratefully accepted: `1K3NvcuZzVTueHW1qhkG2Cm3viRkh2EXJp`
+Bitcoin gratefully accepted: `1GBVJXSVbUwZG3JanAnhdZDtZ8W5opVzER`
